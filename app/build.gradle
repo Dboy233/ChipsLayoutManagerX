@@ -39,5 +39,6 @@ dependencies {
     implementation 'androidx.recyclerview:recyclerview:1.1.0'
 
     implementation 'com.github.bumptech.glide:glide:4.11.0'
-    implementation project(path: ':library')
+//    implementation project(path: ':library')
+    implementation 'com.github.Dboy233:ChipsLayoutManagerX:1.0.0'
 }
